@@ -6,3 +6,4 @@
 <!-- conflict test -->
 
 test
+ok
